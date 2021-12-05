@@ -2,6 +2,9 @@
   "name": "appworks-fusion-design-pro",
   "version": "0.1.0",
   "description": "使用 TypeScript，包含大量 UI 区块，比如图表、表单等。",
+  "author": "niexq<niexq0319@gmail.com>(https://niexq.github.io)",
+  "license": "MIT",
+  "homepage": "https://niexq.github.io/appworks-fusion-design-pro",
   "dependencies": {
     "@alifd/next": "^1.21.0",
     "moment": "^2.24.0",
